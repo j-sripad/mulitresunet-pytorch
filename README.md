@@ -37,15 +37,15 @@ nclasses - number of classes
 #### Results
 
 
-<div style="text-align:center">
+<div >
     <img src="result/1.jpg" />
 </div>
 
-<div style="text-align:center">
+<div>
     <img src="result/15.jpg"  />
 </div>
 
-<div style="text-align:center">
+<div >
     <img src="result/49.jpg"/>
 </div>
 
