@@ -21,15 +21,15 @@ MultiResUNet has been published in Neural Networks
 
 
 <div style="text-align:center">
-    <img src="result/14.jpg" width="70%" />
+    <img src="result/1.jpg" width="70%" />
 </div>
 
 <div style="text-align:center">
-    <img src="result/19.jpg" width="70%" />
+    <img src="result/15.jpg" width="70%" />
 </div>
 
 <div style="text-align:center">
-    <img src="result/39.jpg" width="70%" />
+    <img src="result/49.jpg" width="70%" />
 </div>
 
 
