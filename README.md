@@ -17,11 +17,18 @@ MultiResUNet has been published in Neural Networks
 #### Usage
 <pre><code>
 from multiresunet import MultiResUnet <br>
-net = MultiResUnet(channels=3,filters=16,nclasses=1)<br><br>
+net = MultiResUnet(channels=3,filters=16,nclasses=1)<br><br><br><br>
+
+"""
+Arguments : 
 
 channels - input image channels
 filters - filters to begin with (Unet)
 nclasses - number of classes
+"""
+
+
+
 </code></pre>
 
 
@@ -31,15 +38,15 @@ nclasses - number of classes
 
 
 <div style="text-align:center">
-    <img src="result/1.jpg" width="70%" />
+    <img src="result/1.jpg" />
 </div>
 
 <div style="text-align:center">
-    <img src="result/15.jpg" width="70%" />
+    <img src="result/15.jpg"  />
 </div>
 
 <div style="text-align:center">
-    <img src="result/49.jpg" width="70%" />
+    <img src="result/49.jpg"/>
 </div>
 
 
