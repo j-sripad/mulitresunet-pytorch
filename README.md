@@ -38,7 +38,7 @@ nclasses - number of classes
 
 
 
-<img style='transform: scale(1.5);' src="result/1.jpg" />
+<img style='width:auto' src="result/1.jpg" />
 
 
 <div>
