@@ -1,5 +1,5 @@
 
-## MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation
+### MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation
 
 This repository contains the  implementation of "MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation" in pytorch.
 
@@ -14,10 +14,20 @@ MultiResUNet has been published in Neural Networks
 * [View the Preprint](https://arxiv.org/abs/1902.04049)
 * [Original keras(tensorflow backend) implementation](https://github.com/nibtehaz/MultiResUNet)
 
+#### Usage
+<pre><code>
+from multiresunet import MultiResUnet <br>
+net = MultiResUnet(channels=3,filters=16,nclasses=1)<br><br>
+
+channels - input image channels
+filters - filters to begin with (Unet)
+nclasses - number of classes
+</code></pre>
 
 
 
-## Results
+
+#### Results
 
 
 <div style="text-align:center">
@@ -30,17 +40,8 @@ MultiResUNet has been published in Neural Networks
 
 <div style="text-align:center">
     <img src="result/49.jpg" width="70%" />
-
-    <img src="result/14.jpg" width="70%" />
 </div>
 
-<div style="text-align:center">
-    <img src="result/19.jpg" width="70%" />
-</div>
-
-<div style="text-align:center">
-    <img src="result/39.jpg" width="70%" />
-</div>
 
 
 
