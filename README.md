@@ -38,7 +38,7 @@ nclasses - number of classes
 
 
 
-<img  src="result/5.jpg" />
+<img  src="result/7.jpg" />
 
 
 <div>
