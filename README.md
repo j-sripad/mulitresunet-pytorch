@@ -36,7 +36,7 @@ nclasses - number of classes
 <div align="center">
 Trained on TGS Salt Identification Challenge data for 100 epochs
 1.
-![Alt text](result/7.jpg)
+![Screenshot](result/7.jpg)
 2.
 ![Alt text](result/39.jpg)
 3.  
