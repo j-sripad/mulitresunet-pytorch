@@ -36,7 +36,7 @@ nclasses - number of classes
 <div align="center">
 Trained on TGS Salt Identification Challenge data for 100 epochs
 <img src="https://github.com/j-sripad/mulitresunet-pytorch/blob/main/result/7.jpg" width="90%"></img> 
-<img src="https://github.com/j-sripad/mulitresunet-pytorch/blob/main/result/49.jpg" width="90%"></img> <img src="https://github.com/j-sripad/mulitresunet-pytorch/blob/main/result/37.jpg" width="90%"></img>
+<img src="https://github.com/j-sripad/mulitresunet-pytorch/blob/main/result/42.jpg" width="90%"></img> <img src="https://github.com/j-sripad/mulitresunet-pytorch/blob/main/result/39.jpg" width="90%"></img>
 </div>
 
 
