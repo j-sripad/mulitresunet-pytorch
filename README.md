@@ -5,8 +5,6 @@ This repository contains the  implementation of "MultiResUNet : Rethinking the U
 
 ### Paper
 
-MultiResUNet has been published in Neural Networks
-
 >Ibtehaz, Nabil, and M. Sohel Rahman. "MultiResUNet: Rethinking the U-Net architecture for multimodal biomedical image segmentation." Neural Networks 121 (2020): 74-87.
 
 
@@ -37,9 +35,9 @@ nclasses - number of classes
 #### Results
 
 
-
+<div>
 <img  src="result/7.jpg" />
-
+</div>
 
 <div>
     <img src="result/39.jpg"  />
