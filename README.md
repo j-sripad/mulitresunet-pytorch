@@ -38,7 +38,7 @@ Trained on TGS Salt Identification Challenge data for 100 epochs
 1.
 ![Result1](../result/7.jpg)
 2.
-![Alt text](../result/39.jpg)
+![Alt text](/result/39.jpg)
 3.  
 ![Alt text](../result/42.jpg)
 </div>
