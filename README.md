@@ -33,20 +33,12 @@ nclasses - number of classes
 * [Dataset - TGS Salt Identification Challenge ](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
 
 #### Results
-
-
-<div>
-<img  src="result/7.jpg" />
+<div align="center">
+Trained on TGS Salt Identification Challenge data for 100 epochs
+![result1](result/7.jpg)
+![result1](result/39.jpg)
+![result2](result/42.jpg)
 </div>
-
-<div>
-    <img src="result/39.jpg"  />
-</div>
-
-<div >
-    <img src="result/42.jpg"/>
-</div>
-
 
 
 
