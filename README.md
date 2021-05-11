@@ -9,7 +9,6 @@ This repository contains the  implementation of "MultiResUNet : Rethinking the U
 
 
 * [Read the Paper](https://doi.org/10.1016/j.neunet.2019.08.025)
-* [View the Preprint](https://arxiv.org/abs/1902.04049)
 * [Original keras(tensorflow backend) implementation](https://github.com/nibtehaz/MultiResUNet)
 
 #### Usage
