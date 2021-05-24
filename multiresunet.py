@@ -187,7 +187,7 @@ class MultiResUnet(nn.Module):
     up9 = torch.cat([self.upsample9(x_multires8),x_multires1],axis=1)
     x_multires9 = self.multiresblock9(up9)
     if self.nclasses > 1:
-      conv_final_layer =  torch.softmax(self.conv_final(x_multires9))
+      conv_final_layer =  self.conv_final(x_multires9)
     else:
       conv_final_layer =  torch.sigmoid(self.conv_final(x_multires9))
     return conv_final_layer
